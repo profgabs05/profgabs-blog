@@ -55,7 +55,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Prof Gabs',
+        title: 'Insights from Gabriel',
         logo: {
           alt: 'Prof Gabs Logo',
           src: 'img/logo.svg',
