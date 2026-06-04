@@ -11,7 +11,7 @@ I don't.
 
 What I have is a clear direction, a lot of ground to cover, and a decision to document every step of it honestly — the wins, the confusion, and the hard lessons in between.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Why this site exists
 
